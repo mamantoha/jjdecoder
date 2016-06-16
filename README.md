@@ -1,5 +1,9 @@
 # JJDecoder
 
+[![Build Status][travis_badge]][travis]
+[![Gem Version][rubygems_badge]][rubygems]
+[![Code Climate][codeclimate_badge]][codeclimate]
+
 Ruby version of the jjdecode function for JJEncoded string.
 
 [JJEncode](http://utf-8.jp/public/jjencode.html) is originally made by @hasegawayosuke. 
@@ -50,3 +54,12 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/mamant
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
 Copyright (c) 2016 by Anton Maminov
+
+[travis_badge]: http://img.shields.io/travis/mamantoha/jjdecoder.svg?style=flat
+[travis]: https://travis-ci.org/mamantoha/jjdecoder
+
+[rubygems_badge]: http://img.shields.io/gem/v/jjdecoder.svg?style=flat
+[rubygems]: https://rubygems.org/gems/jjdecoder
+
+[codeclimate_badge]: http://img.shields.io/codeclimate/github/mamantoha/jjdecoder.svg?style=flat
+[codeclimate]: https://codeclimate.com/github/mamantoha/jjdecoder
